@@ -128,10 +128,9 @@
             <div class="interests-container container-block">
                 <h2 class="container-block-title">Research Interests</h2>
                 <ul class="list-unstyled interests-list">
-                                    <li>Data Science and High-performance Computing</li>
+                                    <li>Data Science and High-performance computing</li>
                                     <li>Artificial Intelligence and Deep Learning </li>
                     <li>Bayesian Analysis Surface Photometric Analysis</li>
-                    <li>Machine Learning applied to Remote Sensing</li>
                     <li>Galaxies and the Universe - Environmental Effects on Galaxies</li>
                 </ul>
             </div><!--//interests-->
@@ -169,10 +168,10 @@
                 <li><a href="" class="cv-menu-button fa fa-bars">Menu</a>
                 </li>
                 <!-- PAGE 1 LINK -->
-                <li class="links-to-floor-li" data-id="1" data-slug="home"><a href="#summary" class="fa fa-home tooltip-menu tooltipstered ancla">About</a>
+                <li class="links-to-floor-li" data-id="1" data-slug="home"><a href="" class="fa fa-home tooltip-menu tooltipstered ancla">Home</a>
                 </li>
                 <!-- PAGE 2 LINK -->
-                <li class="links-to-floor-li" data-id="2" data-slug="about"><a href="#teaching" class="fa fa-user tooltip-menu tooltipstered ancla">Teaching</a>
+                <li class="links-to-floor-li" data-id="2" data-slug="about"><a href="#summary" class="fa fa-user tooltip-menu tooltipstered ancla">About</a>
                 </li>
                 <!-- PAGE 3 LINK -->
                 <li class="links-to-floor-li" data-id="3" data-slug="resume"><a href="#research" class="fa fa-briefcase tooltip-menu tooltipstered ancla">Research</a>
@@ -200,124 +199,46 @@
             <section class="section summary-section">
                 <h2  id='summary' class="section-title"><i class="fa fa-user"></i>About me</h2>
                 <div class="summary">
-<p align="justify">I'm currently working as a Research Director at the <a href="www.aep.gov.py">Paraguayan Space Agency</a>. I have a part-time research position at the National University of Asunción (FPUNA-<a href="http://www.cc.pol.una.py">NIDTEC </a>). Here we have a graduate program in Computer Science, where I'm working as a lecturer. I'm teaching also C/C++ programming and physics at the engineering school <a href="http://www.ing.una/">FIUNA</a>.  </p>
- <p align="justify">I'm working in the scientific computing research team. We have several research projects on Deep Learning applied to Galaxy Morphology and Face Recognition, Bayesian Surface Photometry for Cosmology, High Performace Computing and Heterogeneous Computing with GPUs.</p>
-<p align="justify"> I obtained my Phd at the <a href="http://www.inpe.br/ingles/">National Institute for Space Research (INPE)</a>, where my research was focused in two main projects: (i) Bayesian Surface Photometry Analysis and (ii) the study of the Environmental effects on galaxies probed with MAGGIE. </p>
+<p align="justify">I'm currently working as a researcher at the <a href="http://www.cc.pol.una.py">NIDTEC </a>. Here we have a graduate program in Computer Science, where I'm working as lecturer. I'm teaching also C/C++ programing and physics at the engineering school <a href="http://www.ing.una/">FIUNA</a>.  </p>
+<p align="justify"> I obtained my Phd at the <a href="http://www.inpe.br/ingles/">National Institute for Space Research (INPE)</a>, there my research was focused in two main projects: (i) Bayesian Surface Photometry Analysis and (ii) the study of the Environmental effects on galaxies probed with MAGGIE. </p>
 				
-<p align="justify">I started my PhD in 2013 under the supervision of <a href="http://www.lac.inpe.br/~reinaldo/">Reinaldo R. Rosa</a> and <a href="http://www.bv.fapesp.br/pt/pesquisador/104115/reinaldo-ramos-de-carvalho/">Reinaldo R.Carvalho</a>. Thanks to the Brazilian Science Without Borders Scholarship and <a href="http://www2.iap.fr/users/gam/">Gary Mamon </a>(my advisor at the IAP) I was working at the IAP as a visitor.</p>
+<p align="justify">I started my PhD in 2013 under the supervision of <a href="http://www.lac.inpe.br/~reinaldo/">Reinaldo R. Rosa</a> and <a href="http://www.bv.fapesp.br/pt/pesquisador/104115/reinaldo-ramos-de-carvalho/">Reinaldo R.Carvalho</a>. Thanks to the Brazilian Science Wihtout Borders Scolarship and <a href="http://www2.iap.fr/users/gam/">Gary Mamon </a>(my advisor at the IAP) i'm working at the IAP as a visitor.</p>
 				
-<p align="justify">Before, I obtained my BA in Electronic Engineering from the National University of Asunción (UNA). My final year project: Optimal boundary control parareal algorithm for cooling electronics circuits, developed under the advice of <a href="http://www.cc.pol.una.py/~cschaer/">Christian E Schaerer</a>.   In 2013, I obtained my MSc degree in Applied Computing and Mathematics at INPE with the project: <a href="http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2013/02.08.17.58/doc/publicacao.pdf">A new gravitational N-body GPU simulator for Computational Cosmology </a></p>
+<p align="justify">Before, i obtained my BA in Electronic Engineering at the National University of Asunción (UNA). My final year project: Optimal boundary control parareal algorithm for cooling electronics circuits, developed under the advice of <a href="http://www.cc.pol.una.py/~cschaer/">Christian E Schaerer</a>.   In 2013, I obtained my MSc degree in Applied Computing and Mathematics at INPE with the project: <a href="http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2013/02.08.17.58/doc/publicacao.pdf">A new gravitational N-body GPU simulator for Computacional Cosmology </a></p>
 				
 <p align="justify">In my spare time: I love cooking, riding bicycles and traveling with my wife Mariam :)</p>
 		           
                 </div><!--//summary-->
             </section><!--//section-->
-             <section class="section projects-section">
-                <h2 id='teaching' class="section-title"><i class="fa fa-archive"></i>Teaching</h2>
-                <div class="intro">
-       
-                </div><!--//intro-->
-                 <div class="item">
-                    <span class="project-title"><a href="www.cc.pol.una.py">1- Graduate Program in Computer Science</a></span>-<span class="project-tagline">Numerical Methods (03/2018-05/2018)-<a href="lectures/">Lectures</a></span>
-                    
-                </div><!--//item-->
-     
-
-                 <div class="item">
-                    <span class="project-title"><a href="www.ing.una.py">2- Engineering School (FIUNA)</a></span> - <span class="project-tagline"> C++ Programming (2018-Now), Teaching assistant since 2019</span>
-                    
-                </div><!--//item-->
-
-  <div class="item">
-                    <span class="project-title"><a href="www.ing.una.py">3- Engineering School (FIUNA)</a></span> - <span class="project-tagline"> Artificial Intelligence (2019), for Mechatronic Engineering</span>
-                    
-                </div><!--//item-->
-                 <div class="item">
-                    <span class="project-title"><a href="www.ing.una.py">4- Engineering School (FIUNA)</a></span> - <span class="project-tagline">Physics:Light,Wave-duality,Optics (11/2018-03/2018)</span>
-                    
-                </div><!--//item-->
-
-           </section><!--//section-->
-        <section class="section projects-section">
-                <h2 id='teaching' class="section-title"><i class="fa fa-archive"></i>Students</h2>
-                <div class="intro">
-
-                </div><!--//intro-->
-                 <div class="item">
-                    <span class="project-title"><a href="https://wp.me/p3j9x4-7EE">1. Facial Expressions Recognition for pain detection using Convolutional Neural Networks</a> Eng. Stefanía Yuliana Viterbori Ugarte and Eng. Jorge Enrique Hernáez Acha from Engineering School (FIUNA)
-
-                </div><!--//item-->
-   <div class="item">
-                    <span class="project-title"><a href="">2.(in progress) Deep Learning-Based Dengue Cases Forecasting with Synthetic Data, Master in Computer Science from FPUNA.	
-
-                </div><!--//item-->
-
-   <div class="item">
-                    <span class="project-title"><a href="">3. (in progress) Design and development of pico-satellites(CanSat) </a> Lucas Moreira and José Moreira from Engineering School (FIUNA)
-
-                </div><!--//item-->
-   <div class="item">
-                    <span class="project-title"><a href="">4. (in progress) Design of an air bearing based platform for ground testing of CubeSats Attitude Determination and Control System </a> Aldo Galeano and Esteban Fretes (FIUNA)
-		
-                </div><!--//item-->
-
-           </section><!--//section-->
-
+            
             <section class="section experiences-section">
-                <h2 class="section-title" id='research'><i class="fa fa-briefcase"></i>Research</h2>
-                          
+                <h2 class="section-title" id='research'><i class="fa fa-briefcase"></i>Research(updating)</h2>
+                
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
-                            <h3 class="job-title">Ground Segment for the first Paraguayan CubeSat GuaraniSat1
-</h3>
-                            <div class="time">2018 - Present</div>
+                            <h3 class="job-title">Environmental effects on galaxies probed with MAGGIE</h3>
+                            <div class="time">2015 - Present</div>
                         </div><!--//upper-row-->
-                        <div class="company">Colaboration with Kyutech, GIEM,FPUNA,FIUNA</div>
+                        <div class="company">Colaboration with Gary Mamon, Manuel Duarte and Vara Prasad</div>
                     </div><!--//meta-->
                     <div class="details">
-                        <p> This project aims to include Paraguay in an international capacity building program carried out by the Kyushu Institute of Technology (Kyutech). It is one of the leading universities in space engineering research in Japan.In 2015, Kyutech launched a multinational multinational capacity building program called BIRDS. The BIRDS program consists of a series of satellite projects, thanks to which more than 10 countries built and launched their satellite with this capacity building model. The Paraguayan satellite mission must be defined by the Team of Researchers in charge of its development. But there is already a public health problem that has attracted the attention of the Paraguayan Scientific Society, the endemic caused by Chagas disease in the Paraguayan Chaco.</p>  
+                        <p> MAGGIE is a prior- and halo-based, 
+                        probabilistic, abundance matching (AM) grouping algorithm for doubly complete subsamples (in distance and luminosity) of flux-limited samples.
+                        Previously it was tested on groups extracted from a mock Sloan Digital Sky Survey Legacy redshift survey [<a href="https://arxiv.org/abs/1401.0662">1</a>,<a href="https://arxiv.org/abs/1412.3364">2</a>].
+			So this project aims to improve MAGGIE and then test our results on the <a href="http://www.sdss.org/dr12/">Sloan Digital Sky Survey Legacy survey</a>.</p>  
                       				<div  id='divimg1' class='divimg1'>
-						<img id="img1" src="fig/Imagenbirds.jpg" style="width: 200px;">	
+						<img id="img1" src="assets/images/MAGGIEweb.png" style="width: 200px;">	
 						</div>
 						
                     </div><!--//details-->
                 </div><!--//item-->
-          
+                
                 <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">CApacity BUilding, REsearch and Innovation – 4 Space
-</h3>
-                            <div class="time">2018 - Present</div>
-                        </div><!--//upper-row-->
-                        <div class="company">Colaboration with Jorge Kurita, Javier Ferrer</div>
-                    </div><!--//meta-->
-                    <div class="details">
-                        <p> Conventional Earth observation  telecommunications and navigation and satellites weigh hundreds of kilos and hundreds of millions of dollars. In recent decades, access to space became viable thanks to a new paradigm called New Space. This new paradigm has gained strength due to the great prominence of the private sector (companies such as SpaceX, Satellogic, etc.) have allowed satellites to orbit in a faster and cheaper way. Experiences from emerging countries have shown that academy ingenuity plays a very important role in the development of space technology capabilities. For this reason, the AEP is committed to the active participation of public and private universities in the capacity building process. Parallel to the development of the first Paraguayan satellite GuaraniSat1, several final degree projects have started oriented towards the formation of basic spatial engineering capabilities and the processing of satellite images.
-
-
-Following are some of the work in progress:
-
-    - Thermo-Vacuum Chamber
-    - Structural design of CubeSATs
-    - GuaraniSat: Earth Segment
-    - CanSAT Satellite Peak
-    - Attitude Control System
-    - Frictionless platform
-    - Satellite Applications</p>  
-                      				<div  id='divimg1' class='divimg1'>
-						<img id="img1" src="fig/ImagenCaburei.jpg" style="width: 200px;">	
-						</div>
-						
-                    </div><!--//details-->
-                </div><!--//item-->
-
- <div class="item">
                     <div class="meta">
                         <div class="upper-row">
                             <h3 class="job-title">Bayesian Surface Photometry Analysis with GALPHAT </h3>
-                        <div class="time">2014 - 2019</div>
+                        <div class="time">2014 - Present</div>
                         </div><!--//upper-row-->
                         <div class="company">Colaboration with Reinaldo R. Carvalho, Martin Weinberg, Sandro Rembold and Reinaldo Rosa</div>
                     </div><!--//meta-->
@@ -336,26 +257,7 @@ Following are some of the work in progress:
                         
                     </div><!--//details-->
                 </div><!--//item-->
-                <div class="item">
-                    <div class="meta">
-                        <div class="upper-row">
-                            <h3 class="job-title">Environmental effects on galaxies probed with MAGGIE</h3>
-                            <div class="time">2015 - 2016</div>
-                        </div><!--//upper-row-->
-                        <div class="company">Colaboration with Gary Mamon, Manuel Duarte and Vara Prasad</div>
-                    </div><!--//meta-->
-                    <div class="details">
-                        <p> MAGGIE is a prior- and halo-based, 
-                        probabilistic, abundance matching (AM) grouping algorithm for doubly complete subsamples (in distance and luminosity) of flux-limited samples.
-                        Previously it was tested on groups extracted from a mock Sloan Digital Sky Survey Legacy redshift survey [<a href="https://arxiv.org/abs/1401.0662">1</a>,<a href="https://arxiv.org/abs/1412.3364">2</a>].
-			So this project aims to improve MAGGIE and then test our results on the <a href="http://www.sdss.org/dr12/">Sloan Digital Sky Survey Legacy survey</a>.</p>  
-                      				<div  id='divimg1' class='divimg1'>
-						<img id="img1" src="assets/images/MAGGIEweb.png" style="width: 200px;">	
-						</div>
-						
-                    </div><!--//details-->
-                </div><!--//item-->
-              
+                
                 <div class="item">
                     <div class="meta">
                         <div class="upper-row">
@@ -377,68 +279,47 @@ calculated also on results obtained from the Virgo consortium, prove the perform
             </section><!--//section-->
             
             <section class="section projects-section">
-                <h2 id='publications' class="section-title"><i class="fa fa-archive"></i>Some Publications and Conference Posters</h2>
+                <h2 id='publications' class="section-title"><i class="fa fa-archive"></i>Some Publications and Conference Posters(updating)</h2>
                 <div class="intro">
        
                 </div><!--//intro-->
-    <div class="item">
-                    <span class="project-title"><a href="https://arxiv.org/abs/1711.02188">1- Journal Paper(under review)</a></span> - <span class="project-tagline">Bayesian Galaxy Photometry of ETGs</span>
-                    
-                </div><!--//item-->
-    <div class="item">
-
-                    <span class="project-title"><a href="https://arxiv.org/abs/1803.10853">2- Journal Paper</a></span> - <span class="project-tagline">
-Gradient Pattern Analysis Applied to Galaxy Morphology</span>
-
-                </div><!--//item-->
-
-    <div class="item">
-                    <span class="project-title"><a href="https://arxiv.org/abs/1707.00651">3- Journal Paper</a></span> - <span class="project-tagline">Investigating the Relation between Galaxy Properties and the Gaussianity of the Velocity Distribution of Groups and Clusters</span>
-                    
-                </div><!--//item-->
-   <div class="item">
-                    <span class="project-title"><a href="https://academic.oup.com/mnrasl/article-abstract/471/1/L47/3865956">4- Journal Paper</a></span> - <span class="project-tagline">Group galaxy number density profiles far out: Is the ‘one-halo’ term NFW out to >10 virial radii?</span>
-                    
-                </div><!--//item-->
                  <div class="item">
-  <div class="item">
-                    <span class="project-title"><a href="http://epacis.net/jcis/PDF_JCIS/JCIS11-art.0114.pdf">5- Journal Paper</a></span> - <span class="project-tagline">Improving galaxy morphology with machine learning</span>
-                    
-                </div><!--//item-->
-                 <div class="item">
-                    <span class="project-title"><a href="http://www.researchgate.net/publication/284719772_Fast_Bayesian_Galaxy_Photometry_of_ETGs">6-  Conference Poster </a></span> - <span class="project-tagline">Fast Bayesian Galaxy Photometry of ETGs</span>
+                    <span class="project-title"><a href="http://www.researchgate.net/publication/284719772_Fast_Bayesian_Galaxy_Photometry_of_ETGs">1- Conference Poster</a></span> - <span class="project-tagline">Fast Bayesian Galaxy Photometry of ETGs</span>
                     
                 </div><!--//item-->
  <div class="item">
-                    <span class="project-title"><a href="http://link.springer.com/chapter/10.1007%2F978-3-319-09153-2_34">7- Conference Paper</a></span> A Strategy to Workload Division for Massively Particle-Particle N-body Simulations on GPUs <span class="project-tagline">Fast Bayesian Galaxy Photometry of ETGs</span>
+                    <span class="project-title"><a href="http://link.springer.com/chapter/10.1007%2F978-3-319-09153-2_34">2- Conference Paper</a></span> A Strategy to Workload Division for Massively Particle-Particle N-body Simulations on GPUs <span class="project-tagline">Fast Bayesian Galaxy Photometry of ETGs</span>
 
                 </div><!--//item-->
 
            
              <div class="item">
                 <div class="item">
-                    <span class="project-title"><a href="http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2013/02.08.17.58/doc/publicacao.pdf">8- Master Theses (Portuguese)</a></span> - <span class="project-tagline">A New Simulator for Computational Cosmology
+                    <span class="project-title"><a href="http://mtc-m16d.sid.inpe.br/col/sid.inpe.br/mtc-m19/2013/02.08.17.58/doc/publicacao.pdf">3- Master Theses (Portuguese)</a></span> - <span class="project-tagline">A New Simulator for Computational Cosmology
 Using GPUs</span>
                     
                 </div><!--//item-->
            
              <div class="item">
-                    <span class="project-title"><a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4756992">9- Conference Paper</a></span> - <span class="project-tagline">A new gravitational N-body simulation algorithm for investigation of cosmological chaotic advection</span>
+                    <span class="project-title"><a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4756992">4- Conference Paper</a></span> - <span class="project-tagline">A new gravitational N-body simulation algorithm for investigation of cosmological chaotic advection</span>
                     
                 </div><!--//item-->
                 <div class="item">
                   <div class="item">
-                    <span class="project-title"><a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4756991">10- Conference Paper</a></span> - <span class="project-tagline">An alternative singularity-free cosmological scenario from cusp geometries</span>
+                    <span class="project-title"><a href="http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4756991">5- Conference Paper</a></span> - <span class="project-tagline">An alternative singularity-free cosmological scenario from cusp geometries</span>
                     
                 </div><!--//item-->
                 <div class="item">
                   <div class="item">
-                    <span class="project-title"><a href="http://www.researchgate.net/publication/267368910_Optimal_boundary_control_parareal_algorithm_for_cooling_electronics_circuits">11- BA final year project poster</a></span> - <span class="project-tagline"> Optimal boundary control parareal algorithm for cooling electronics circuits</span>
+                    <span class="project-title"><a href="http://www.researchgate.net/publication/267368910_Optimal_boundary_control_parareal_algorithm_for_cooling_electronics_circuits">6- BA final year project poster</a></span> - <span class="project-tagline"> Optimal boundary control parareal algorithm for cooling electronics circuits</span>
                     
                 </div><!--//item-->
                 <div class="item">
    <div class="item">
-                  
+                  <div class="item">
+                    <span class="project-title"><a href="http://www.cc.pol.una.py/~cschaer/Development%20of%20a%20parallel%20application%20in%20time%20for%20simulation%20and%20control%20of%20parabolic%20parcial%20differential%20equations.pdf">7- BA final year project (Spanish) </a></span> - <span class="project-tagline"> Optimal boundary control parareal algorithm for cooling electronics circuits</span>
+
+                </div><!--//item-->
 
            </section><!--//section-->
             
