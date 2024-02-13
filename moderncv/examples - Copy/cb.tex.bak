@@ -1,0 +1,131 @@
+%% start of file `template_en.tex'.
+%% Copyright 2007 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper]{moderncv}
+
+% moderncv themes
+\moderncvtheme[blue]{classic}%casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvtheme[green]{classic}                % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}                   % replace by the encoding you are using
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
+
+% personal data
+\firstname{Diego Herbin}
+\familyname{Stalder Díaz }
+\title{ Estudiante de Ingeniería}               % optional, remove the line if not wanted
+\address{Primavera c/Porvenir San Lorenzo}{2189}    % optional, remove the line if not wanted
+\mobile{+595 981 369307}                    % optional, remove the line if not wanted
+\phone{+595 21 580726}                      % optional, remove the line if not wanted
+%\fax{fax (optional)}                          % optional, remove the line if not wanted
+\email{diego.s.eik@gmail.com}                      % optional, remove the line if not wanted
+\extrainfo{C.I. Nº 3.972.673 } % optional, remove the line if not
+%\extrainfo{ } % optional, remove the line if not wanted
+\photo[84pt]{3x4}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+\quote{Homepage: http://www.cc.pol.una.py/index.php/diego-stalder.html}                 % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+\section{Intereses}
+\cventry{}{Computación Científica, Computación de Alto Desempeño, Física, Control Automático, Tecnologías de Información y Comunicación.}{}{}{}{}
+
+\section{Formación Académica}
+\cventry{1991--2000}{ Escuela Básica}{Tomasa Ferreira de Meza}{San Lorenzo, Paraguay}{}{}  % arguments 3 to 6 are optional
+
+\cventry{2001--2003}{ Secundaria}{Colegio Técnico Nacional de Asunción}{Paraguay}{\textit{Técnico Industrial en Electrónica}}{}  % arguments 3 to 6 are optional
+
+\cventry{2004--2010}{Grado}{Facultad de Ingeniería, Universidad Nacional de Asunción}{Paraguay}{\textit{Electronic Engineering}}{Tesis Título: Desarrollo de una aplicación paralela en el tiempo para la simulación y control de ecuaciones diferenciales parciales parabólicas.(Faltando solo la defensa)}{Orientador: Christian Emilio Schaerer Serra.}  % arguments 3 to 6 are optional
+
+\section{Formación Complementaria}
+\cventry{2006 Ago-Dic}{CCNA 1-\textit{Cisco Certified Networking Associated}-Networking Basics}{Academia Cisco, Facultad de Ingeniería -Universidad Nacional de Asunción}{Paraguay}{80h}{}
+\cventry{2007 Mar-Jul}{CCNA 2-\textit{Cisco Certified Networking Associated}-Router an Routing Basics}{Academia Cisco, Facultad de Ingeniería -Universidad Nacional de Asunción}{Paraguay}{80h}{}
+
+\cventry{2007 Ago-Dic}{CCNA 3-\textit{Cisco Certified Networking Associated}-Switching Basics and Intermediate Routing}{Academia Cisco, Facultad de Ingeniería -Universidad Nacional de Asunción}{Paraguay}{80h}{}
+
+\cventry{2007 Ago 6-17}{Inteligencia Artificial}{Facultad de Ingeniería - Universidad Nacional de Asunción}{Paraguay}{40h}{}
+
+\cventry{2008 Mar-Jul}{CCNA 4-\textit{Cisco Certified Networking Associated}- Wan Technologies}{Facultad de Ingeniería -Universidad Nacional de Asunción}{Paraguay}{80h}{}
+
+\cventry{2008 Ago-Dic}{Curso de Linux}{Facultad de Ingeniería - Universidad Nacional de Asunción}{Paraguay}{110h}{}
+
+\cventry{2009 Jul 20-25}{Algoritmos de Aproximación}{Escuela Regional de Computación-Facultad Politécnica, Universidad Nacional de Asunción}{Paraguay}{20h}{}
+
+\cventry{2009 Nov 18-20}{Taller de implementación de servicios en IPv6}{ Grupo de trabajo de implementación de Servicios en IPv6 - CLARA, National University of Asuncion}{Paraguay}{20h}{}
+
+\cventry{2010 Jul 19-23}{Introducción a la teoría de los números y criptografía}{Escuela de Matemática de Sudamérica Central (EMALCA)}{Paraguay}{12h}{}
+
+\cventry{2010 Jul 19-23}{Geometría Diferencial}{Escuela de Matemática de Sudamérica Central (EMALCA)}{Paraguay}{12h}{}
+
+\cventry{2010 Jul 19-23}{Introducción a la Optimización}{Escuela de Matemática de Sudamérica Central (EMALCA)}{Paraguay}{12h}{}
+
+\section{Experiencia Profesional}
+
+\cventry{2006--2010}{Física 3 - Auxiliar de Enseñanza}{Ondas Mecánicas, Optica Física, Relatividad}{Profesor Titular: Ing. Higinio César Moreira - Facultad de Ingeniería, Universidad Nacional de Asunción}{Paraguay}{Desarrollo de clases prácticas, ejercicios}                % arguments 3 to 6 are optional
+
+\cventry{2007--2010}{Análisis de Sistemas - Auxiliar de Enseñanza}{Modelado matemáticos de sistemas físicos. Espacio de Estados. Análisis del lugar geométrico de las raices (LGR). Respuesta en Frecuencia}{Profesor Titular: Ing. Higinio César Moreira - Facultad de Ingeniería, Universidad Nacional de Asunción}{Paraguay}{Desarrollo de clases práctica, ejercicios. Homepage: http://www.controlfiuna.hostzi.com/}                % arguments 3 to 6 are optional
+
+\cventry{2008--2010}{Sistemas de control - Auxiliar de Enseñanza}{Profesor Titular: Ing. Higinio César Moreira - Facultad de Ingeniería, Universidad Nacional de Asunción}{Paraguay}{Teoría de control clasico. Diseño de controladores de adelanto, atraso mediante LQR y respuesta en frecuencia}{Desarrollo de clases prácticas, ejercicios. Homepage: http://www.controlfiuna.hostzi.com/}                % arguments 3 to 6 are optional
+
+\cventry{2009--2010}{Administrador de red y Webmaster}{Laboratorio de Computación Científica y Aplicada - Facultad de Politécnica, Universidad Nacional de Asunción}{Paraguay}{}{ http://www.cc.pol.una.py/lcca/}                % arguments 3 to 6 are optional
+
+\section{Participación en eventos}
+\cventry{2008 Feb 21-22}{Simposio Internacional de Biotecnología}{Fundación para el Desarrollo Científico y Tecnológico-Fundetec}{Cascavel, Brasil}{}{}
+
+\cventry{2009 Oct 5 - 9}{Youth Forum}{ITU Telecom World 2009}{Ginebra, Suiza}{}{}
+
+\cventry{2010 Oct 26 - 16}{Workshop Aplied Mathematics and Computing for Engineering}{Facultad de Ingeniería, Universidad Nacional de Asunción}{Paraguay}{}{}
+
+\section{Idiomas}
+\cvlanguage{Español}{}{Buena Comprensión, Buena Conversación, Buena Lectura, Buena Escritura}
+\cvlanguage{Inglés}{}{Buena Comprensión, Razonable Conversación, Buena Lectura, Razonable Escritura}
+\cvlanguage{Portugués}{}{Buena Comprensión, Razonable Conversación, Buena Lectura, Poca Escritura}
+\cvlanguage{Guarani}{}{Buena Comprensión, Buena Conversación, Buena Lectura, Razonable Escritura}
+
+
+
+\closesection{}                   % needed to renewcommands
+\renewcommand{\listitemsymbol}{-} % change the symbol for lists
+
+\section{Referencias}
+\cvlistitem{\textbf{Christian Emilio Schaerer Serra}}
+\cvlistitem[]{Doctor en Ciencias - Politécnica - UNA }
+\cvlistitem[]{Mail: cschaer@pol.una.py }
+\cvlistitem[]{Teléfono: (595) 982 651880}            % optional other symbol
+\cvlistitem{\textbf{Higinio Cesar Moreira}}
+\cvlistitem[]{Ingeniero Aeronáutico - Ingeniería - UNA}
+\cvlistitem[]{Mail:cesarmoreira@citec.ing.una.py}
+\cvlistitem[]{Teléfono:(595) 21 646168}            % optional other symbol
+\cvlistitem{\textbf{Miki Saito}}
+\cvlistitem[]{Doctora en Ingeniería - Ingeniería - UNA}
+\cvlistitem[]{Mail:mikiarimoto@mac.com}
+\cvlistitem[]{Teléfono:(595) 961 600341}            % optional other symbol
+
+%\section{Extra 2}
+%\cvlistdoubleitem[\Neutral]{Item 1}{Item 4}
+%\cvlistdoubleitem[\Neutral]{Item 2}{Item 5}
+%\cvlistdoubleitem[\Neutral]{Item 3}{}
+
+% Publications from a BibTeX file
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}       % 'publications' is the name of a BibTeX file
+
+\end{document}
+
+
+%% end of file `template_en.tex'.

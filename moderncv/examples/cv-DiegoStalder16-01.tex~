@@ -1,0 +1,140 @@
+%% start of file `template_en.tex'.
+%% Copyright 2007 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper]{moderncv}
+
+% moderncv themes
+\moderncvtheme[blue]{classic}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvtheme[green]{classic}                % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}                   % replace by the encoding you are using
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
+
+% personal data
+\firstname{Diego Herbin}
+\familyname{Stalder Díaz }
+\title{ Engineering Student}               % optional, remove the line if not wanted
+\address{Primavera c/Porvenir San Lorenzo}{2189}    % optional, remove the line if not wanted
+\mobile{+595 981 369307}                    % optional, remove the line if not wanted
+\phone{+595 21 580726}                      % optional, remove the line if not wanted
+%\fax{fax (optional)}                          % optional, remove the line if not wanted
+\email{diegostalder@ieee.org}                      % optional, remove the line if not wanted
+\extrainfo{C.I. Nº 3.972.673 } % optional, remove the line if not
+%\extrainfo{Homepage: http://www.cc.pol.una.py/index.php/diego-stalder.html } % optional, remove the line if not wanted
+\photo[84pt]{picture}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+\quote{I was born and raised in Asunción and I am living together with all my life in San Lorenzo city.
+I have always been very interested in information and comunications tecnologys ICT as a tool for the develop of my country . In 2000 I started by studying electronics in the college after then I started electronic enginering and from this study and with cisco academy stuydies I have the kwnolege to use ICT for improve the quality of the like of the people, I wrote my vision about this and ITU has selected me for fellowship at the ITU YOuth Forum. The participation in the enginering student's center gave to me the experience to make decition and manage diferent kind of problem in the relationships of people. And my teaching experience like gave to me interest to follow my studies.    When I am not doing physics or computers I enjoy sports. I go to the gym twice a week . Beside sports my hobbies are the music and traveling }                 % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Education}
+\cventry{1991--2000}{ Elementary School}{Tomasa Ferreira de Meza}{San Lorenzo, Paraguay}{}{}  % arguments 3 to 6 are optional
+
+\cventry{2001--2003}{ High School}{National Technical College of Asunción}{Paraguay}{\textit{Industrial Electronics Technician}}{}  % arguments 3 to 6 are optional
+
+\cventry{2004--2010}{Undergraduate}{Engineering Faculty, National University of Asunción}{Paraguay}{\textit{Electronic Engineering}}{Full course with outstanding thesis for this year}  % arguments 3 to 6 are optional
+
+\section{Couses Taken}
+\cventry{2006 Aug-Dec}{CCNA 1}{Engineering Faculty, National University of Asunción}{Paraguay}{\textit{Cisco Certify Networking Associated - Networking Basics}}{Cisco Networking Academy - Proydesa Foundation}
+
+\cventry{2007 Mar-Jul}{CCNA 2}{Engineering Faculty, National University of Asunción}{Paraguay}{\textit{Cisco Certify Networking Associated - Router an Routing Basics}}{Cisco Networking Academy - Proydesa Foundation}
+
+\cventry{2007 Aug-Dec}{CCNA 3}{Engineering Faculty, National University of Asunción}{Paraguay}{\textit{Cisco Certify Networking Associated - Switching Basics and Intermediate Routing}}{Cisco Networking Academy - Proydesa Foundation}
+
+\cventry{2007 Aug 6-17}{Artificial Intelligence}{Engineering Faculty, National University of Asuncion}{Paraguay}{}{40 hours with the PhD. Ivan Rizzo}
+
+\cventry{2008 Mar-Jul}{CCNA 4}{Engineering Faculty, National University of Asunción}{Paraguay}{\textit{Cisco Certify Networking Associated - Wan Technologies}}{Cisco Networking Academy - Proydesa Foundation}
+
+\cventry{2008 Aug-Dec}{Linux Server Administration}{Engineering Faculty, National University of Asuncion}{Paraguay}{}{110 hours} 
+
+\cventry{2009 Jul 20-25}{Approximation Algorithms}{Regional School of Computing - Poly-Technical Faculty, National University of Asuncion}{Paraguay}{}{20 hours with the PhD. Carlos Brizuela}
+
+\cventry{2009 Nov 18-20}{Workshop of Services Deployment on IPv6}{ Training Work Group and Training Work Group of Services Deployment on IPv6 - CLARA, National University of Asuncion}{Paraguay}{}{Coordinators: Azael Fernández and Claudia Córdova}
+
+\section{Fellowships}
+\cventry{2008 Feb 21-22}{International Biotechnology Symposium}{Foundation for Scientific and Technological Development-Fundetec}{Cascavel, Brasil}{}{}
+
+\cventry{2009 Oct 5 - 9}{Youth Forum}{ITU Telecom World 2009}{Ginebra, Suiza}{}{}
+
+\section{Teaching}
+
+\cventry{2006--2008}{Teaching Assistant of Physics 3 }{Professor PhD. Benjamin Barán - Physics 3 - Engineering Faculty, National University of Asuncion}{Paraguay}{}{Development of practical classes}                % arguments 3 to 6 are optional
+
+\cventry{2007--2008}{Teaching Assistant of Systems Analysis}{Professor Eng. Higinio César Moreira - Systems Analysis - Engineering Faculty, National University of Asuncion}{Paraguay}{}{Development of practical classes}                % arguments 3 to 6 are optional
+
+\cventry{2007--2008}{Teaching Assistant of Automatic Control Systems }{Professor Eng. Higinio César Moreira - Automatic Control Systems - Engineering Faculty, National University of Asuncion}{Paraguay}{}{Development of practical classes}                % arguments 3 to 6 are optional
+
+\section{Experience}
+\subsection{Vocational}
+\cventry{2009}{Network Manager}{Scientific and Applied Computing Laboratory - Poly-Technical Faculty, National University of Asuncion}{Paraguay}{}{IT and Server Support, Web Desing}                % arguments 3 to 6 are optional
+
+\subsection{Miscellaneous}
+\cventry{2000}{Secretary }{Electronics Technician Mauro Araujo Román}{Asuncion}{}{IT Support}% arguments 3 to 6 are optional
+\cventry{2006-2007}{Academic Secretary of Electronic Engineering}{NGO: Engineering Student's Center}{Engineering Faculty, National University of Asunción}{Paraguay}{Coordination of schedules of classes and exams}% arguments 3 to 6 are optional
+\cventry{2008-2009}{Vice-President Engineering Student Center}{NGO: Engineering Student's Center}{Engineering Faculty, National University of Asunción}{Paraguay}{Coordination of NGO activities}% arguments 3 to 6 are optional
+\section{Languages}
+\cvlanguage{Spanish}{Skill levels}{Good Comprehension, Good Talking, Good Reading, Good Writing}
+\cvlanguage{Guarani}{Skill levels}{Good Comprehension, Reasonable Talking, Good Reading, Little Writing}
+\cvlanguage{English}{Skill levels}{Good Comprehension, Reasonable Talking, Good Reading, Reasonable Writing}
+
+
+\section{Computer skills}
+\cventry{}{Operating systems}{}{}{}{Experience with the most Favors of Linux, Ubuntu, Fedora, CentOS, and MS Window XP,Vista}\cventry{}{Servers and databases}{}{}{}{Apache2, Openssh, NFS, CUPS, MySQL.}
+\cventry{}{Programming, scripting and markup languages}{}{}{}{Matlab, Latex, Bash, C, C++, HTML}
+
+\section{Interests}
+\cvline{ICT}{\small Description}
+\cvline{Networking}{\small Description}
+\cvline{Scientífic Computing}{\small Description}
+\cvline{Automatic Control}{\small Description}
+
+\closesection{}                   % needed to renewcommands
+\renewcommand{\listitemsymbol}{-} % change the symbol for lists
+
+\section{References}
+\cvlistitem{\textbf{Mauro Román Araujo}}
+\cvlistitem[]{Electronics Technician }
+\cvlistitem[]{Mail: }
+\cvlistitem[]{Phone 442555}            % optional other symbol
+\cvlistitem{\textbf{Higinio Cesar Moreira}}
+\cvlistitem[]{Director of Electronic Engineering School}
+\cvlistitem[]{Mail:cesarmoreira@citec.ing.una.py}
+\cvlistitem[]{Phone 646168}            % optional other symbol
+\cvlistitem{\textbf{José Alberto Benítez}}
+\cvlistitem[]{Professor at Cisco Networking Academy}
+\cvlistitem[]{Mail:---}
+\cvlistitem[]{Phone 646150}            % optional other symbol
+\cvlistitem{\textbf{---}}
+\cvlistitem[]{---}
+\cvlistitem[]{Mail:---}
+\cvlistitem[]{Phone ---}            % optional other symbol
+%\section{Extra 2}
+%\cvlistdoubleitem[\Neutral]{Item 1}{Item 4}
+%\cvlistdoubleitem[\Neutral]{Item 2}{Item 5}
+%\cvlistdoubleitem[\Neutral]{Item 3}{}
+
+% Publications from a BibTeX file
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}       % 'publications' is the name of a BibTeX file
+
+\end{document}
+
+
+%% end of file `template_en.tex'.
