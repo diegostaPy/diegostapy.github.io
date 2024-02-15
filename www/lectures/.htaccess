@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "restricted area"
-AuthUserFile /home/dstalder/www/lectures/.htpasswd
-require valid-user
